@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Crud-operation-Redux/static/css/main.a99f7b4c.css",
+    "main.js": "/Crud-operation-Redux/static/js/main.21f48e3b.js",
+    "index.html": "/Crud-operation-Redux/index.html",
+    "main.a99f7b4c.css.map": "/Crud-operation-Redux/static/css/main.a99f7b4c.css.map",
+    "main.21f48e3b.js.map": "/Crud-operation-Redux/static/js/main.21f48e3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a99f7b4c.css",
+    "static/js/main.21f48e3b.js"
+  ]
+}
